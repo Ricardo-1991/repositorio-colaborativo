@@ -1,1 +1,3 @@
-Novas Modificações
+Minha modificação no arquivo - Paulo Ricardo
+
+enviando conflito
