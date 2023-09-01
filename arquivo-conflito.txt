@@ -1,3 +1,5 @@
 Minha modificação no arquivo - Paulo Ricardo
 
 Enviando um novo conflito.
+
+novo conflito
