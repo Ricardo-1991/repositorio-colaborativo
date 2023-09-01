@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
-=======
-
-
 Modificando o arquivo colaborativo em outra branch - Paulo P Marques
 Adicionando mais uma linha para atualização.
 Alterção
