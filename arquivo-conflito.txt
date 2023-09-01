@@ -4,3 +4,5 @@ Minha modificação no arquivo - Paulo Ricardo
 Modificando o arquivo colaborativo em outra branch - Paulo P Marques
 Adicionando mais uma linha para atualização.
 Alterção
+nviando um novo conflito.
+
