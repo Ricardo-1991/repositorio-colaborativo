@@ -1,1 +1,11 @@
+
+<<<<<<< HEAD
+=======
+
+
+Modificando o arquivo colaborativo em outra branch - Paulo P Marques
+Adicionando mais uma linha para atualização.
+Alterção
+nviando um novo conflito.
 Minha modificação no arquivo - Paulo Ricardo
+>>>>>>> 916262b2276cda7d63479ab8eab40cef4961be5e
